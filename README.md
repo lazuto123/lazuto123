@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Mathematics graduate from Institut Teknologi Bandung<br><br>📊 Data Scientist & Analyst with experience in finance, non-profit, and research projects<br><br>🤖 Worked on clustering, predictive modeling, and dashboards for real-world applications<br><br>🔐 Currently exploring DevSecOps & Cybersecurity
+🎓 Mathematics graduate from Institut Teknologi Bandung<br><br>📊 Data Scientist & Analyst with experience in finance, non-profit, and research projects<br><br>🤖 Worked on clustering, predictive modeling, and dashboards for real-world applications<br><br>🔐 Currently studying DevSecOps & Cybersecurity
 
 
 ## 🌐 Socials:
